@@ -20,7 +20,6 @@
 ## Usage
 
 ```sh
-$ docker image build --no-cache -t alpine-clang .
 $ docker container run --rm -it alpine-clang:latest
 ```
 
